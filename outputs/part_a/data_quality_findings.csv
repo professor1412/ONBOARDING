@@ -1,0 +1,6 @@
+,check,rows_or_captains,treatment
+0,Summary docs_cleared disagrees with timestamped passes,451,Reconstruct from events; do not use summary counts for features or historical stages.
+1,Clicked=1 but delivered=0,457,Use send assignment as exposure; exclude click/delivery from adjustment. Request telemetry reconciliation.
+2,orders_d7 exceeds orders_d30 (both observed),7,Quarantine aggregate counts from outcome inference; clarify clock and aggregation rules.
+3,Uploaded attempts with no verification result by extraction,190,"Pending at cutoff, not automatic verification failures."
+4,Approved with no first order observed,102,No observed activation; do not impute timestamps or mature order counts.

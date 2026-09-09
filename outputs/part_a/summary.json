@@ -1,0 +1,37 @@
+{
+  "cohort_signups": 20207,
+  "cohort_approved": 3532,
+  "cohort_active": 3485,
+  "a2o30": 0.17479091403968922,
+  "r2a30": 0.17246498738061067,
+  "rc_lost": 4887,
+  "insurance_no_upload": 2281,
+  "insurance_trigger_count": 2695,
+  "insurance_downstream": 0.7688691884086085,
+  "insurance_monthly_gain": 175.3790618760036,
+  "quality_monthly_gain": 70.60655693986688,
+  "insurance_monthly_cost": 10780.0,
+  "quality_monthly_cost": 11493.0,
+  "campaign_naive_pp": 17.89945855440837,
+  "campaign_association_pp": 4.169444386475932,
+  "campaign_ci_pp": [
+    2.6808646481736056,
+    5.81799949032409
+  ],
+  "campaign_weighted_rates": [
+    0.2488097869413982,
+    0.2905042308061575
+  ],
+  "campaign_n": 12824,
+  "campaign_coverage": 0.5476450405489707,
+  "campaign_reach_ceiling": 1.8260002847785846,
+  "campaign_extra_recipients_monthly": 1160.2,
+  "campaign_conditional_monthly_gain": 48.37389377189376,
+  "trial_total": 3856,
+  "trial_accrual_months": 1.5034310667498438,
+  "quality_blocked_total": 1833,
+  "quality_monthly_targets": 766.2,
+  "mismatch_summary": 451,
+  "bad_click_delivery": 457,
+  "bad_order_counts": 7
+}

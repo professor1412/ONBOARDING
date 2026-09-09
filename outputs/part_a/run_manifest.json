@@ -1,0 +1,55 @@
+{
+  "created_utc": "2026-09-08T20:33:59.822634+00:00",
+  "python": "3.12.3",
+  "seed": 20260630,
+  "cutoff_ist": "2026-06-30 23:59:00+05:30",
+  "cohort_start": "2026-01-01 00:00:00+05:30",
+  "cohort_end_exclusive": "2026-06-01 00:00:00+05:30",
+  "bootstrap_replicates": 300,
+  "packages": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.0",
+    "matplotlib": "3.11.1",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "raw_inputs": [
+    {
+      "file": "captains.csv",
+      "rows": 25000,
+      "captains": 25000,
+      "exact_duplicate_rows": 0,
+      "sha256": "35381b4eb60222ca2f229c8a0beae998e57d4686f88477dc0209650d3d2fb3ef"
+    },
+    {
+      "file": "doc_events.csv",
+      "rows": 186282,
+      "captains": 23303,
+      "exact_duplicate_rows": 0,
+      "sha256": "b63ebc6d1e7adb018996a59190cfee5c8261360fb3eb4724dfe068e042758399"
+    },
+    {
+      "file": "approvals.csv",
+      "rows": 25000,
+      "captains": 25000,
+      "exact_duplicate_rows": 0,
+      "sha256": "ec82ecd5faea4068b46ee77204bb2f856ea5f4bf2de893a11506e57a56d7cf0c"
+    },
+    {
+      "file": "activation.csv",
+      "rows": 4206,
+      "captains": 4206,
+      "exact_duplicate_rows": 0,
+      "sha256": "9cd2b914afab7d84967aa54595044fe07d1472943c9dbac04096a30fe342503e"
+    },
+    {
+      "file": "nudges.csv",
+      "rows": 16314,
+      "captains": 13667,
+      "exact_duplicate_rows": 0,
+      "sha256": "57ed325bba56278d8a05bd54906b1b433e2a1a46665d23d876073ea41964aed0"
+    }
+  ]
+}

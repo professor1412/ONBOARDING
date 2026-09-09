@@ -1,0 +1,9 @@
+,check,count,treatment
+0,Missing zone-hours,0,Complete grid; retain all reported hours.
+1,Sample terminal-hours with sample rows > total requests,380,Sampling/frame reconciliation is unavailable. Never multiply sample rates by marketplace totals.
+2,Sample terminal-hours with sample rows > fulfilled requests,723,Trip sample is not a validated subset of completed marketplace requests.
+3,Cancelled records carrying return_fare=1,2321,Exclude all cancelled records from the next-fare analysis; retain for cancellation rate.
+4,Cancelled records with positive fare,8260,Fare cannot be assumed to be realized revenue or captain earnings.
+5,Trip timestamps exactly on the hour,60000,Treat as coarse request-time buckets; no trip duration or exact event ordering can be recovered.
+6,Non-cancelled records inside final 24 hours,874,Exclude from primary return-fare comparison; test 0/6/24/48-hour buffers. Completion timestamps remain missing.
+7,Zone-hours with exactly one unfulfilled request,7740,Possible metric floor; request source definition. Do not reinterpret as true zero loss.

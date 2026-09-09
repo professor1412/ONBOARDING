@@ -14,11 +14,10 @@ __pycache__/
 .streamlit/
 
 # Generated notebook tables, charts, HTML, and run manifests
-outputs/
+
 
 # Internal report builders and notebook runners
-scripts/
-requirements.txt
+
 
 # Superseded notebooks kept locally for reference
 analysis_partA.ipynb

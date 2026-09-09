@@ -1,0 +1,3 @@
+,design,estimate,ci_low,ci_high,population,propensity_auc_oof,outcome_auc_oof,outcome_brier_oof,propensity_clipped_fraction
+0,Cross-fitted AIPW · logistic,0.042443316275552805,0.02729710113454461,0.057589531416561,All eligible RC clearers,0.5033841509470889,0.6188805270494714,0.19079028143234608,0.0
+1,Cross-fitted AIPW · boosting,0.042201810198663633,0.026966636653907118,0.05743698374342015,All eligible RC clearers,0.5036923103268803,0.6115388459922998,0.19172511990915475,0.0

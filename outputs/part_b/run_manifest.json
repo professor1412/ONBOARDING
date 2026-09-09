@@ -1,0 +1,25 @@
+{
+  "created_utc": "2026-09-08T20:34:22.717483+00:00",
+  "python": "3.12.3",
+  "seed": 20260630,
+  "bootstrap_replicates": 2000,
+  "cutoff_ist": "2026-06-30 23:59:00+05:30",
+  "packages": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1"
+  },
+  "raw_inputs": [
+    {
+      "file": "airport_hourly.csv",
+      "rows": 10248,
+      "sha256": "fcba937fda1b32d104c1dd143754ab92a62bcfea63f405627385c7ae55092dd7"
+    },
+    {
+      "file": "airport_trips.csv",
+      "rows": 60000,
+      "sha256": "658bf15b1975f2066522fcf9f1704bac8901b0f2a15cae23bbe3659f4581aaf2"
+    }
+  ]
+}

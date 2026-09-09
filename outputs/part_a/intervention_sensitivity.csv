@@ -1,0 +1,13 @@
+,intervention,incremental_recovery,downstream_vs_historical_peers,extra_approved_per_month
+0,Insurance upload rescue,0.25,0.5,43.8447654690009
+1,Low-device image quality repair,0.25,0.5,17.65163923496672
+2,Insurance upload rescue,0.25,1.0,87.6895309380018
+3,Low-device image quality repair,0.25,1.0,35.30327846993344
+4,Insurance upload rescue,0.5,0.5,87.6895309380018
+5,Low-device image quality repair,0.5,0.5,35.30327846993344
+6,Insurance upload rescue,0.5,1.0,175.3790618760036
+7,Low-device image quality repair,0.5,1.0,70.60655693986688
+8,Insurance upload rescue,0.75,0.5,131.5342964070027
+9,Low-device image quality repair,0.75,0.5,52.954917704900154
+10,Insurance upload rescue,0.75,1.0,263.0685928140054
+11,Low-device image quality repair,0.75,1.0,105.90983540980031

@@ -1,0 +1,4 @@
+,design,estimate,ci_low,ci_high,population
+0,"All signups, ever sent (biased descriptive comparison)",0.1789945855440837,0.16842748532162494,0.18964950743440206,All signups
+1,"RC + 24h landmark, unadjusted",0.040155712654497105,0.024762484780339697,0.055479234202151395,Eligible RC clearers
+2,"RC + 24h landmark, overlap weighted",0.04169444386475932,0.026808646481736056,0.0581799949032409,Overlap population
