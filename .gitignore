@@ -27,3 +27,4 @@ analysis_partB.ipynb
 deliverables/*
 !deliverables/memo.pdf
 !deliverables/presentation.pdf
+.gitignore
